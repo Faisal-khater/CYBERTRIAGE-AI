@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ALT-001",
+    "language": "Arabic",
+    "dialect": "Saudi",
+    "text": "جاني مسج فيه رابط من ip 192.168.1.50 ورقم 0551234567 يطلب تحديث الباسورد",
+    "label": "phishing"
+  },
+  {
+    "id": "ALT-002",
+    "language": "Arabic",
+    "dialect": "Saudi",
+    "text": "حسابي تهكر وغيروا رقم الجوال المرتبط فيه وسجلوا دخول من دولة ثانية",
+    "label": "account_takeover"
+  },
+  {
+    "id": "ALT-003",
+    "language": "English",
+    "dialect": "Standard",
+    "text": "Suspicious attachment executed on workstation and started encrypting shared files",
+    "label": "malware"
+  },
+  {
+    "id": "ALT-004",
+    "language": "Arabic",
+    "dialect": "MSA",
+    "text": "طلب تفعيل صلاحيات البريد الإلكتروني لموظف جديد في قسم التقنية",
+    "label": "safe"
+  }
+]
