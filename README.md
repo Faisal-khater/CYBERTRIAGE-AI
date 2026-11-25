@@ -61,3 +61,4 @@
 +-----------------------------------------------------------------------+
 ## Live Demo
 * **Interactive Web App:** [CyberTriage AI Demo](https://bilingual-incident-compass.lovable.app)
+@SDAIAAcademy
