@@ -59,3 +59,5 @@
 |    • 1,000-iteration Bootstrap 95% CI                                 |
 |    • Root-cause taxonomy (Class Overlap, Dialect Shift, Out-of-Scope) |
 +-----------------------------------------------------------------------+
+## Live Demo
+* **Interactive Web App:** [CyberTriage AI Demo](https://bilingual-incident-compass.lovable.app)
