@@ -15,7 +15,7 @@
 | :--- | :--- | :--- |
 | **Presenter / Student** | **Faisal Al-Khater** | End-to-end project showcase & integration |
 | **Instructor** | **Ms. Latifa Abdulmohsen** | Course supervision & technical review |
-| **Project Lead & Reviewer** | **كلنا قادة (All Team Leaders)** | Discussion moderation, challenge question & final decision |
+| **Project Lead & Reviewer** | **Faisal al khater** | Discussion moderation, challenge question & final decision |
 | **NLP Engineer** | **Azzam Abdullah** | Preprocessing, tokenization, CAMeLBERT fine-tuning & workflow |
 | **Quality & Evaluation Lead** | **Nasser Al-Otaibi** | Metrics, data leakage prevention, sliced eval & error analysis |
 | **Innovation & Presentation Lead** | **Bassam Al-Mutairi** | Pitch deck, product differentiation & real-world adoption |
